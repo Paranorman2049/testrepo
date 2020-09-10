@@ -1,0 +1,3 @@
+A data scientist is anybody, not necessarily from a numerical or computer science background, that is equipped with the tools, technical knowledge and skills needed to collect, organize and analyse data in order to draw useful insight which will be in turn be used to make important decision to improve process, life , increase profits,  or even for malicious intents.    
+Typically, data scientist should have some knowledge of basic Statistics, computer science, probability, programming.
+Data science encompasses the techniques, process or methodology for making meaning from large, or extremely large volume of data. It is the art of making information out of raw data; analogous to how gold is first searched for, mined, purified and then turned into jewelry. 
